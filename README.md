@@ -73,7 +73,9 @@ Stochastic Gradient Descent (SGD): خوارزمية تحسين لتحديث ال
 
 ## 🏷️ الكلمات المفتاحية
 
-PyTorch · MNIST · Logistic Regression · Handwritten Digits · Machine Learning
+PyTorch · MNIST · Logistic Regression · Handwritten Digits · Machine Learning · Deep Learning · Classification
+
+بايثورتش · تصنيف الأرقام · التعلم الآلي · الذكاء الاصطناعي · الانحدار اللوجستي · شبكات عصبية · تصنيف الصور · MNIST
 
 ## 📝 خاتمة
 
